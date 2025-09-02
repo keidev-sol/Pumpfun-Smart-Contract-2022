@@ -44,8 +44,6 @@ You can see how the project works from this video.
 https://github.com/user-attachments/assets/09ecf494-117f-4e8b-926f-7f27942d182f
 
 
-Uploaded the contract test video with solscan explorer to my X.
-[Smart Contract Test Video](https://x.com/Rabnail_SOL/status/1902255553650340249)   
 
 Original smart contract test video recorded.
 
@@ -57,5 +55,5 @@ https://github.com/user-attachments/assets/54606cb9-3be0-49a9-a92d-2759d0648f4b
 ### Raydium migration and other detailed code are reserved for private, you can contact me for more understanding about the project and other features
 
 ### 👤 Author
-#### Twitter: [@Rabnail_SOL](https://twitter.com/Rabnail_SOL)   
-#### Telegram: [@Rabnail_SOL](https://t.me/Rabnail_SOL)   
+#### Twitter: [@Kie Novak](https://twitter.com/kei_4650)   
+#### Telegram: [@Kei Novak](https://t.me/Kei4650)   
